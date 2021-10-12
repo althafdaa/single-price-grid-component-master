@@ -11,13 +11,13 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./screenshot.png)
 
-![](./screenshot2.jpg)
+![](./screenshot2.png)
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://epic-euclid-b4b060.netlify.app/]
 
 ### Built with
 
